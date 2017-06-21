@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerMeetupIIS", "DockerMeetupIIS\DockerMeetupIIS.csproj", "{B217F81E-2916-4104-871D-4200DC08212B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerMeetupIIS.Tests", "DockerMeetupIIS.Tests\DockerMeetupIIS.Tests.csproj", "{AD7A1359-2738-4FF3-8B81-AF9BC46574A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B217F81E-2916-4104-871D-4200DC08212B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B217F81E-2916-4104-871D-4200DC08212B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B217F81E-2916-4104-871D-4200DC08212B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B217F81E-2916-4104-871D-4200DC08212B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7A1359-2738-4FF3-8B81-AF9BC46574A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7A1359-2738-4FF3-8B81-AF9BC46574A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7A1359-2738-4FF3-8B81-AF9BC46574A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7A1359-2738-4FF3-8B81-AF9BC46574A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
